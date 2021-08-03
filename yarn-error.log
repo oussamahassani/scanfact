@@ -1,0 +1,75 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\dell\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add react-native@0.64.1 react@17.0.1
+
+PATH: 
+  C:\Users\dell\Desktop\React-native-Ocr\android-app\XPR-Accounting-Mobile\node_modules\.bin;C:\Users\dell\Desktop\React-native-Ocr\android-app\node_modules\.bin;C:\Users\dell\Desktop\React-native-Ocr\node_modules\.bin;C:\Users\dell\Desktop\node_modules\.bin;C:\Users\dell\node_modules\.bin;C:\Users\node_modules\.bin;C:\node_modules\.bin;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\composer;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Users\dell\AppData\Local\Android\Sdk\platform-tools;C:\Users\dell\AppData\Local\Android\Sdk\tools;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\dell\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python39\;C:\Users\dell\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python38\;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\dell\AppData\Roaming\npm;C:\wamp64\bin\php\php7.3.21;C:\Users\dell\AppData\Roaming\Composer\vendor\bin;C:\Program Files\heroku\bin;C:\Program Files\JetBrains\WebStorm 2020.1\bin;;
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  14.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\dell\AppData\Local\Yarn\Cache\v6\npm-resolve-1.1.7-203114d82ad2c5ed9e8e0411b3932875e889e97b-integrity\node_modules\resolve\test\pathfilter\deep_ref\node_modules\deep\package.json' -> 'C:\Users\dell\Desktop\React-native-Ocr\android-app\XPR-Accounting-Mobile\node_modules\browser-resolve\node_modules\resolve\test\pathfilter\deep_ref\node_modules\deep\package.json'
+
+npm manifest: 
+  {
+    "name": "xpr_Accounting",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+      "android": "react-native run-android",
+      "ios": "react-native run-ios",
+      "web": "expo start --web",
+      "start": "react-native start",
+      "test": "jest",
+      "lint": "eslint ."
+    },
+    "dependencies": {
+      "@react-native-community/async-storage": "^1.12.1",
+      "@react-native-community/masked-view": "^0.1.10",
+      "@react-navigation/drawer": "^5.1.1",
+      "@react-navigation/material-bottom-tabs": "^5.3.14",
+      "@react-navigation/native": "^5.7.6",
+      "@react-navigation/stack": "^5.9.3",
+      "expo-image-crop": "^1.0.4",
+      "formik": "^2.1.7",
+      "import": "0.0.6",
+      "react": "17.0.1",
+      "react-native": "0.64.0",
+      "react-native-gesture-handler": "^1.8.0",
+      "react-native-image-crop-picker": "^0.36.0",
+      "react-native-image-picker": "^3.2.1",
+      "react-native-paper": "^4.2.0",
+      "react-native-reanimated": "^1.13.1",
+      "react-native-safe-area-context": "^3.1.8",
+      "react-native-screens": "^2.11.0",
+      "react-native-table-component": "^1.2.1",
+      "react-native-toast-message": "^1.4.9",
+      "react-native-vector-icons": "^8.1.0",
+      "yup": "^0.29.3"
+    },
+    "devDependencies": {
+      "@babel/core": "7.11.6",
+      "@babel/runtime": "7.11.2",
+      "@react-native-community/eslint-config": "1.1.0",
+      "babel-jest": "25.5.1",
+      "eslint": "6.8.0",
+      "jest": "25.5.4",
+      "metro-react-native-babel-preset": "0.59.0",
+      "react-test-renderer": "16.13.1"
+    },
+    "jest": {
+      "preset": "react-native"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

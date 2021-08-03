@@ -1,0 +1,4 @@
+#Mon Mar 29 11:01:14 CEST 2021
+base.0=C\:\\Users\\dell\\Desktop\\React-native-Ocr\\react-native-jwt-authentication\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

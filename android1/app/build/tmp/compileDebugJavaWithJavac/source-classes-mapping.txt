@@ -1,0 +1,2 @@
+com/jwtauthenticationreactnativeproject/MainActivity.java
+ com.jwtauthenticationreactnativeproject.MainActivity

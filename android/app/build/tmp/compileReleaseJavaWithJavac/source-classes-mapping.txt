@@ -1,0 +1,9 @@
+com/xpr_accounting/BuildConfig.java
+ com.xpr_accounting.BuildConfig
+com/xpr_accounting/MainActivity.java
+ com.xpr_accounting.MainActivity
+com/xpr_accounting/MainApplication.java
+ com.xpr_accounting.MainApplication
+ com.xpr_accounting.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

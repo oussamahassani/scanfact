@@ -1,0 +1,16 @@
+ {
+ "OrganisationName":"Nom organisation",
+"OrganisationNext":"suivant",
+"Login_title":"enterer vos information" ,
+"Login_label_Email":"email" ,
+"Login_label_password":"mot de passe",
+"Login_Button_login":"envoiyer" ,
+"Home_titel":"acceuil" ,
+"Home_info_Nom":"Nom",
+"Home_info_Email":"Email",
+"Home_info_Prenom":"Prenom",
+"Home_button_editProfil":"Modifier Profil",
+"Home_button_changePassword":"Modifier Password",
+"Home_button_sacnFacture":"scaner Facture",
+"Home_button_MesFacture":"mes Facture"
+ }
